@@ -1,0 +1,30 @@
+.squares{
+    width: 440px;
+    height: 400px;
+    background-color: blueviolet;
+
+}
+.rectangles{
+width: 590px;
+height: 310px;
+background-color: black;
+}
+.circles{
+width: 440px ;
+height: 440px;
+border-radius: 500px;
+background-color: brown;
+}
+.flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.padd{
+    margin: 50px;
+    padding: 20px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(219, 47, 90);
+}
